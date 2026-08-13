@@ -29,7 +29,7 @@ Pastikan Anda telah menginstal **Python 3.8** atau versi yang lebih baru di sist
    ```
 
 2. **Instal Dependensi**:
-   Instal pustaka Python yang diperlukan menggunakan perintah berikut:
+   Instal library Python yang diperlukan menggunakan perintah berikut:
    ```bash
    pip install -r requirements.txt
    ```
