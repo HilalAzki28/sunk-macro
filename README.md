@@ -24,10 +24,9 @@ Pastikan Anda telah menginstal **Python 3.8** atau versi yang lebih baru di sist
 
 1. **Klon atau Unduh Repositori Ini**:
    ```bash
-   git clone https://github.com/USERNAME/auto-click-key.git
-   cd auto-click-key
+   git clone https://github.com/HilalAzki28/sunk-macro.git
+   cd sunk-macro
    ```
-   *(Ganti `USERNAME` dengan nama pengguna GitHub Anda)*
 
 2. **Instal Dependensi**:
    Instal pustaka Python yang diperlukan menggunakan perintah berikut:
